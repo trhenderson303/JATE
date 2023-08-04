@@ -21,6 +21,8 @@ https://github.com/trhenderson303/JATE
 
 ## Installation
 The app can be downloaded by clicking the download icon on the right side of the search bar. This action will generate an icon to open and use the app from your desktop, regardless of your connection.
+<img width="1440" alt="Screenshot 2023-08-03 at 10 11 25 PM" src="https://github.com/trhenderson303/JATE/assets/132783253/b70c89c8-3bdf-48b6-8580-ba07d2ef6636">
+
 
 ## Usage
 The application automatically stores your text as you type, so there is no user action required to save an entry.
