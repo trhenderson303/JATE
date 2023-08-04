@@ -21,6 +21,8 @@ https://github.com/trhenderson303/JATE
 
 ## Installation
 The app can be downloaded by clicking the download icon on the right side of the search bar. This action will generate an icon to open and use the app from your desktop, regardless of your connection.
+
+
 <img width="1440" alt="Screenshot 2023-08-03 at 10 11 25 PM" src="https://github.com/trhenderson303/JATE/assets/132783253/7896138c-8951-4d4a-99b2-f94039b85291">
 
 
