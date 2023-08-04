@@ -30,7 +30,7 @@ The app can be downloaded by clicking the download icon on the right side of the
 ## Usage
 The application automatically stores your text as you type, so there is no user action required to save an entry.
 
-## Installation
+## Contact
 Contact me at trhenderson303@gmail.com with any additional inquiries.
 
 
